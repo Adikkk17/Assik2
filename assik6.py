@@ -19,6 +19,3 @@ for i in heap:
 print("\n")
 
 element = heappop(heap)
-
-for i in heap:
-    print(i, end = ' ')
